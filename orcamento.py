@@ -131,5 +131,4 @@ if __name__ == '__main__':
 
     print(f'Valor sem desconto extra {orcamento.valor}')
     orcamento.aplica_desconto_extra()
-    orcamento.aplica_desconto_extra()
     print(f'Valor com desconto extra (em aprovação) {orcamento.valor}' )
